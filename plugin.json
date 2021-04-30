@@ -1,0 +1,22 @@
+{
+    "pluginName": "retalk",
+    "version": "0.0.1",
+    "preload": "./src/preload.js",
+    "logo": "logo.png",
+    "author": "woodgear",
+    "homepage": "https://github.com/woodgear",
+    "features": [
+        {
+            "code": "rk",
+            "explain": "retalk",
+            "cmds": [
+                "retalk",
+                "rt",
+                "rk",
+                "分享想法",
+                "flomo",
+                "浮墨日记"
+            ]
+        }
+    ]
+}

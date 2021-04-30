@@ -1,0 +1,12 @@
+{
+  "name": "retalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
